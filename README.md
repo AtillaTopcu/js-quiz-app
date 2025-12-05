@@ -26,4 +26,5 @@ Potential enhancements:
 - Add a final summary page with wrong/right breakdown
 
 🖼️ Preview
+
 <img width="630" height="492" alt="image" src="https://github.com/user-attachments/assets/6fa2483d-c267-476d-ad3d-3c6213ab719f" />
