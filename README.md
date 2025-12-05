@@ -2,6 +2,7 @@ A simple, interactive, and visually modern Quiz Application built with pure HTML
 The app displays one question at a time, highlights correct and incorrect answers, manages user score, and shows results at the end of the quiz.
 
 ✨ Features
+
 It allows users to:
 - Select an answer and instantly see whether it is correct or wrong
 - Automatically highlight the right answer when a wrong choice is made
@@ -16,6 +17,7 @@ It allows users to:
 - JavaScript
 
 🚀 Future Improvements
+
 Potential enhancements:
 - Add a countdown timer per question
 - Add categories (e.g., General Knowledge, Science, History…)
