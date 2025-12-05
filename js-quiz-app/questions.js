@@ -30,5 +30,45 @@ const questions = [
         C: "CSS",
         D: "JavaScript",
         Correct: "C"
+    },
+    {
+        question: "What is the hardest natural substance on Earth?",
+        A: "Gold",
+        B: "Diamond",
+        C: "Iron",
+        D: "Granite",
+        Correct: "B"
+    },
+    {
+        question: "Which gas do plants absorb from the atmosphere?",
+        A: "Oxygen",
+        B: "Hydrogen",
+        C: "Carbon dioxide",
+        D: "Nitrogen",
+        Correct: "C"
+    },
+    {
+        question: "How many continents are there on Earth?",
+        A: "5",
+        B: "6",
+        C: "7",
+        D: "8",
+        Correct: "C"
+    },
+    {
+        question: "Which is the largest desert in the world?",
+        A: "Sahara Desert",
+        B: "Gobi Desert",
+        C: "Kalahari Desert",
+        D: "Arctic Desert",
+        Correct: "A"
+    },
+    {
+        question: "What does CPU stand for?",
+        A: "Central Processing Unit",
+        B: "Computer Personal Unit",
+        C: "Central Power Utility",
+        D: "Control Processing User",
+        Correct: "A"
     }
 ]
