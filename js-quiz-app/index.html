@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>js-quiz-app</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main-div">
+        <div id="question-counter">1/4</div>
+
+        <div id="quiz-div">
+            <h2 id="question-text">...</h2>
+
+            <div class="option">
+                <button class="answer" data-option="A">A</button>
+                <span class="answer-text">...</span>
+            </div>
+
+            <div class="option">
+                <button class="answer" data-option="B">B</button>
+                <span class="answer-text">...</span>
+            </div>
+
+            <div class="option">
+                <button class="answer" data-option="C">C</button>
+                <span class="answer-text">...</span>
+            </div>
+
+            <div class="option">
+                <button class="answer" data-option="D">D</button>
+                <span class="answer-text">...</span>
+            </div>
+        </div>
+        <button id="start-btn">Start</button>
+        <button id="next-btn">Next</button>
+    </div>
+    <script src="questions.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
